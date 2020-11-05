@@ -1,2 +1,2 @@
-# ProojetoUri
+# ProjetoUri
 Exercícios resolvidos da plataforma URI
