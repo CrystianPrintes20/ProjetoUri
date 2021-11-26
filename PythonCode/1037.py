@@ -1,3 +1,4 @@
+#Questão: Intervalo
 A = float(input())
 if A >= 0  and A <= 25.0000:
     print("Intervalo [0,25]")

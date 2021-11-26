@@ -1,3 +1,4 @@
+#Questão: Tempo de jogo com Minutos
 x = input().split()
 hi, mi, hf, mf = x
 

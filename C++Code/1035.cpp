@@ -11,10 +11,10 @@ int main(){
     par = a%2;
 
     if (b > c && d > a && somacd > somaab && c >=0 && d >=0 && par==0){
-        cout <<"Valores aceitos";
+        cout <<"Valores aceitos" << endl;
     }
     else{
-        cout <<"Valores nao aceitos";
+        cout <<"Valores nao aceitos"<< endl;
     }
     return 0;
 }

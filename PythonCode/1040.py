@@ -1,3 +1,4 @@
+#Questão: Media 3
 valores = input().split()
 N1, N2, N3, N4 = valores
 

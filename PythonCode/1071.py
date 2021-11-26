@@ -1,3 +1,4 @@
+#Questão: Soma de Impares Consecutivos I
 x=int(input())
 y=int(input())
 c=0

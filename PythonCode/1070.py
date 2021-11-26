@@ -1,3 +1,4 @@
+#Questão: Seis Números Ímpares
 x = int(input())
 if (x % 2 == 0):
     x += 1

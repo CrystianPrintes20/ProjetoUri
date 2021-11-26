@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# Pares entre Cinco Números
 a = int(input())
 b = int(input())
 c = int(input())

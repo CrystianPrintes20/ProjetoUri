@@ -1,3 +1,4 @@
+#Questão: Pares, Ímpares, Positivos e Negativos
 a = []
 for i in range(5):
     n = int(input())

@@ -1,3 +1,4 @@
+#Questão: Sort Simples
 x,y,z = map(int, input().split())
 lista = [x,y,z]
 lista.sort()

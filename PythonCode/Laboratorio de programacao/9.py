@@ -1,16 +1,10 @@
-'''
-from statistics import pstdev, mean, stdev
-
-vetor = [0,1,2,3,4,5,6,7,8,9]
-
+from statistics import pstdev, mean
+vetor = [2,3,6,21,23,4,5,7,8,10]
 media = mean(vetor)
-print(media)
 valor = pstdev(vetor, media)
-valor1 = stdev(vetor, media)
-print(valor)
-print(valor1)'''
+print('O desvio de padrão é:',valor)
 
-import math, statistics
+'''import math, statistics
 # We relay on our previous implementation for the variance
 def variance(data, ddof=0):
     n = len(data)
@@ -23,7 +17,7 @@ def stdev(data):
     std_dev = math.sqrt(var)
     print(std_dev)
 
-stdev([4, 8, 6, 5, 3, 2, 8, 9, 2, 5])
+stdev([2,3,6,21,23,4,5,7,8,10])
 
-valor = statistics.pstdev([4, 8, 6, 5, 3, 2, 8, 9, 2, 5])
-print(valor)
+valor = statistics.pstdev([2,3,6,21,23,4,5,7,8,10])
+print(valor)'''

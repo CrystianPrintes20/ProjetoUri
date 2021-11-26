@@ -1,3 +1,4 @@
+#Questão: Coordenadas de um Ponto
 X, Y = input() .split()
 X = float(X)
 Y = float (Y)

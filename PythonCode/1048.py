@@ -1,3 +1,4 @@
+#Questão: Aumento de Sálario
 a = float(input())
 if a <= 400:
     rg = ((a * 15)/100)

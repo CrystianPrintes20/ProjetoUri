@@ -6,6 +6,7 @@ if senha >= 0 and senha  <= 100:
         senha2 = int(input(f'Qual é a senha jogador 2 ? Você tem {tentativas} chances!\n'))
         if senha2 == senha:
             print('Acesso permitido!')
+            exit()
         elif senha2 > senha:
             print('Voce digitou um numero maior que a senha!')
         elif senha2 < senha:

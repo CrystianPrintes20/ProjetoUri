@@ -1,3 +1,4 @@
+#Questão: Lanche
 cod,qtde = input().split()
 cod = int(cod)
 qtde = int(qtde)
