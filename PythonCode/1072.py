@@ -1,3 +1,4 @@
+#Questão: Intervalo 2
 n = int(input())
 dentro = 0
 fora = 0
